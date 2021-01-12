@@ -1,0 +1,74 @@
+        html {
+            scroll-behavior: smooth;
+        }
+        
+        #slider1 {}
+        
+        .bg-slide {
+            background-color: rgb(252, 234, 238);
+            border-radius: 15px;
+        }
+        
+        .btn {
+            background-color: #e64cd1;
+            color: #fff;
+            font-size: 20px;
+            font-weight: 600;
+            border-radius: 10px;
+        }
+        
+        .bg-slide h3 {
+            color: #e64cd1;
+            font-size: 35px;
+            font-weight: 700;
+            ;
+        }
+        /* This is watch section style */
+        
+        .watch-style {
+            border-radius: 12px;
+            color: #fff;
+        }
+        
+        .watch-style img {
+            width: 100px;
+            height: 100px;
+        }
+        
+        .watch-style-backpack {
+            background-color: #e64cd1;
+        }
+        /* This is a shoes section */
+        
+        #shoes .card,
+        #shoes .card-footer,
+        #backpack .card,
+        #backpack .card-footer {
+            border: none;
+        }
+        
+        #shoes .card-btn {
+            background-color: #e64cd1;
+            color: #fff;
+            font-size: 20px;
+            font-weight: 600;
+            border-radius: 10px;
+        }
+        
+        .subcribe {
+            background-color: rgb(252, 234, 238);
+            height: 350px;
+        }
+        
+        .subcribe .btn {
+            width: 150px;
+        }
+        
+        .subcribe input {
+            width: 300px;
+            height: 35px;
+            border-radius: 5px;
+            padding: 5px;
+            border: 1px solid #fff;
+            font-size: 18px;
+        }
